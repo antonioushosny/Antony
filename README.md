@@ -1,6 +1,6 @@
-# Antony<h2>👋:heart: Hi there, I’m Ahmed Aamer  </h2>
+ # Antony<h2>👋:heart: Hi there, I’m Antony Hosny  </h2> 
 
-- Software Engineer
+<!--- - Software Engineer
 - Flutter Developer (Android, iOS, Desktop, Web)
 - Excellent Knowledge In Native Kotlin Development
 - Data Analysis Background
@@ -189,4 +189,5 @@ The joys of shopping for kids.
 <hr>
 
 ##### Messenger App  https://github.com/saqrelfirgany/MessengerApp
-> Demo app, Technologies: Fragment, Firebase, Picasso RecyclerView
+> Demo app, Technologies: Fragment, Firebase, Picasso RecyclerView 
+-->
